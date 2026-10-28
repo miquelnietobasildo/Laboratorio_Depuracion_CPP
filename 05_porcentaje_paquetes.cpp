@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main() {
-    int total, sospechosos;
+    float total, sospechosos;
     std::cout << "Introduce total de paquetes y paquetes sospechosos: ";
     std::cin >> total >> sospechosos;
 
