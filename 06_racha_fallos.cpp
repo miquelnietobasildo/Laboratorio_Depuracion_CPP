@@ -11,7 +11,6 @@ int main() {
         std::cin >> fallo;
 
         if (fallo == 1) {
-            rachaActual = 0;
             rachaActual++;
         } else {
             rachaActual = 0;
