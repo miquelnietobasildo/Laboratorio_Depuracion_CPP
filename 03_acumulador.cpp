@@ -8,7 +8,6 @@ int main() {
         std::cout << "Alertas del minuto " << minuto << ": ";
         std::cin >> alertas;
 
-        int total = 0;
         total += alertas;
     }
 
